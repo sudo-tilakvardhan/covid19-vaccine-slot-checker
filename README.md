@@ -23,7 +23,7 @@ You'll get a list of all the centres for a given district where free slots are a
 
 **Next Steps:**
 
-Run the below command in one of your tab and it will automatically update after every 100s
+Run the below command in one of your tab and it will automatically update after every 100s.
 To change refresh time, edit the value after -n flag below
 > watch -n 100 node checkVaccineStatus.js
 
