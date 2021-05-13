@@ -1,0 +1,14 @@
+{
+  "name": "covidvaccineavailability",
+  "version": "1.0.0",
+  "description": "A simple HTTP request to cowin portal and response parse to check if any slots are available for a given district",
+  "main": "checkVaccineStatus.js",
+    "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "email: tilakvardhan@yahoo.com || github: tilakvardhan",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
